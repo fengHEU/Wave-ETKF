@@ -3,9 +3,6 @@
 [![Status](https://img.shields.io/badge/status-coming%20soon-yellow.svg)]()
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-## Coming Soon!
-
-We're excited to announce that our paper "From Points to Waves: Fast Ocean Wave Spatial-temporal Fields Estimation using Ensemble Transform Kalman Filter with Optical Measurement" has been accepted for publication in Coastal Engineering.
 
 ### Paper Information
 - **Title**: From Points to Waves: Fast Ocean Wave Spatial-temporal Fields Estimation using Ensemble Transform Kalman Filter with Optical Measurement
@@ -39,7 +36,3 @@ We will release:
 - Implementation of the Wave-ETKF algorithm
 - Testing datasets
 - Example configurations
-
-### Contact
-
-Feng Wang - [wfeng@hrbeu.edu.cn]
